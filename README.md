@@ -17,5 +17,6 @@ I am working as a truck driver but I want to become a Java Developer. My current
 - 📫 How to reach me: 
 - email: kubikmmarcin@gmail.com
 - linkedin: https://www.linkedin.com/in/marcin-kubik/
-<br><br>
+<br>
+
 Feel free to look in my repositories below
