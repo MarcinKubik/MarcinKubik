@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 I am working as a truck driver but I want to become a Java Developer. My current job does not give me satisfaction however that is not main reason, that I want to leave this profession. I have always been interested in the field of science and technology. I know at work as programmer I could spend definitely more time with these areas.
 - 📫 How to reach me: 
 - email: kubikmmarcin@gmail.com
-<br>
-linkedin: https://www.linkedin.com/in/marcin-kubik/
-<br>
+- linkedin: https://www.linkedin.com/in/marcin-kubik/
+<br><br>
 Feel free to look in my repositories below
